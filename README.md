@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Siva Sai Duggirala
 
-### 🚀 Senior Software Engineer | .NET | Distributed Systems | Cloud & AI | React | Angular
+## 🚀 Senior Software Engineer | .NET | Distributed Systems | System Design | Cloud & AI | React / Angular
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+.NET+Full+Stack+Developer;Building+Scalable+Products;Distributed+Systems+Enthusiast;Cloud+%26+AI;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+.NET+Full+Stack+Developer;Building+Scalable+Cloud+Native+Applications;Distributed+Systems+%26+System+Design;Azure+Cloud+%7C+Microservices+%7C+AI;🚀Always+Learning+%7C+Always+Building" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 🏗️ Passionate about Distributed Systems, System Design, and High-Scale Software Engineering
 
-🤖 Advancing expertise in AI Engineering, Agentic AI, and AI-Powered Product Development
+🤖 Leveraging AI, Agentic Workflows, and Modern Engineering Practices to build intelligent applications
 
 ---
 
@@ -100,3 +100,7 @@
 ---
 
 🚀 Always Learning • Always Building • Always Improving
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivasai-23&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
